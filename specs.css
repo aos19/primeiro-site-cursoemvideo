@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+iframe#frame-spec {
+    width: 410px;
+    height: 280px;
+    float: right;
+    border: none;
+    overflow: hidden;
+}
